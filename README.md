@@ -1,10 +1,10 @@
-- 👋 Hi, My name is Franjo Dumanovsky. I am a freelance front-end developer from Samobor, Croatia. 
+- 👋 Hi, My name is Franjo Dumanovsky. I am a front-end developer from Samobor, Croatia. 
 
-- 🌱 I’m currently learning React, while doing projects for my clients with HTML, CSS and Javascript. 
+- 🌱 I’m currently working mainly with to bump up my React JavaScript skills, while also doing all sorts of projects for clients. 
 
-- 👀 I’m interested in projects that will reinforce my front-end skills & fundamentals.
+- 👀 Highly interested in collaborative projects that will improve my programming but also team work skills.
 
-- 💞️ I’m also looking to collaborate on full stack projects with other developers so if you want to reach to me with a proposition, feel free to do so.
+- 💞️ Wanna talk to me? Just reach out! :)
 
 - 📫 franjodumanovsky@gmail.com / +385 91 3311 806 (whatsapp)
 
